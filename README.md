@@ -51,6 +51,7 @@ $ chmod +x fb_BOT.sh
 $ ./fb_BOT.sh
 
 ```
+![bots in action](http://i.imgur.com/N0vgIYo.png)
 
 # Why can not working on my computer ?!
 Depends on the screen size of your computer ,the location of the field may be changed .Coding a python script to determine the screen size of any computer could be very useful  .
