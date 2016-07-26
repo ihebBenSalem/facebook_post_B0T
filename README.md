@@ -1,5 +1,11 @@
 # About facebook post B0T 
-Through the mouse and keyboard simulation ,this script is able to write and post on your facebook profile.It's easy to write another code and flexible to change . watch the demo
+***
+
+Through the mouse and keyboard simulation ,this script is able to write and post on your facebook profile.It's easy to write another code and flexible to change . 
+
+watch the demo
+
+[Read the article](http://nodeme.blogspot.com/2016/07/write-your-own-facebook-post-bot.html)
 
 ![bots love facebook](http://i.imgur.com/p7MBys5.png)
 
